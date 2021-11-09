@@ -5,10 +5,14 @@
   },
   {
     "content": "przebrać spodnie",
-    "done": false
+    "done": true
   },
   {
-    "content": "nakarmić psa",
+    "content": "zadania AKAI",
     "done": true
+  },
+  {
+    "content": "projekt IO",
+    "done": false
   }
 ]
